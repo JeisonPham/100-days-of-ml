@@ -5,4 +5,4 @@ First 54 days take from [Avik Jain's](https://github.com/Avik-Jain/100-Days-Of-M
 
 # Day 1 - Preproccessing Data
 
-Uses 2 main libraries - Numpy and Pandas. 
+![Day 1](images/day1.png "day 1")
