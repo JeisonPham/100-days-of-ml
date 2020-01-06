@@ -11,12 +11,30 @@ First 54 days take from [Avik Jain's](https://github.com/Avik-Jain/100-Days-Of-M
 
 # Day 2 - Linear Regression
 
-![day 2](images/day2.png "day 2")
+<p align="center">
+  <img src="images/day2.png"/>
+</p>
 
 # Day 3 - Multidimensional Linear Regression
 
-![day 3](images/day3.png "day 3")
+<p align="center">
+  <img src="images/day3.png"/>
+</p>
 
 # Day 4 - Logistic Regression
 
-![day 4](images/day4.png "day 4")
+<p align="center">
+  <img src="images/day4.png"/>
+</p>
+
+# Day 5 - Implementing KNN
+
+<p align="center">
+  <img src="images/day5.png"/>
+</p>
+
+# Day 6 - KNN with Sklearn
+
+<p align="center">
+  <img src="images/day6.png"/>
+</p>
