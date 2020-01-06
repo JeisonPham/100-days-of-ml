@@ -14,3 +14,7 @@ First 54 days take from [Avik Jain's](https://github.com/Avik-Jain/100-Days-Of-M
 # Day 3 - Multidimensional Linear Regression
 
 ![day 3](images/day3.png "day 3")
+
+# Day 4 - Logistic Regression
+
+![day 4](images/day4.png "day 4")
