@@ -44,3 +44,9 @@ First 54 days take from [Avik Jain's](https://github.com/Avik-Jain/100-Days-Of-M
 <p align="center">
   <img src="images/day7.png"/>
 </p>
+
+# Day 8 - Naive Bayes
+
+<p align="center">
+  <img src="images/day8.png"/>
+</p>
