@@ -60,7 +60,8 @@ First 54 days take from [Avik Jain's](https://github.com/Avik-Jain/100-Days-Of-M
 # Day 10 - Andrew Ng's ML course Day 1
 
 Started watching and taking notes on his video lectures. Will create a infographic at the end of each section
+[Link to Video series](https://www.youtube.com/watch?v=kHwlB_j7Hkc&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=4)
 
 # Day 11 - Andrew Ng's ML course Day 2
 
-Implemented Single Variable Linear Regression
+[Implemented Single Variable Linear Regression](/Day%2011/day-11.ipynb)
