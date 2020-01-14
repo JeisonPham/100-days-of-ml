@@ -65,3 +65,11 @@ Started watching and taking notes on his video lectures. Will create a infograph
 # Day 11 - Andrew Ng's ML course Day 2
 
 [Implemented Single Variable Linear Regression](/Day%2011/day-11.ipynb)
+
+# Day 12 - Andrew Ng's ML course Day 3
+
+[Implemented MultiVariable Linear Regression](/Day%2012/day-12.ipynb)
+
+# Day 13 - Andrew Ng's ML course Day 4
+
+[Implemented Logistic Regression](/Day%2013/day-13.ipynb)
