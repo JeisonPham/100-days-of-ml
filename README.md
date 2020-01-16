@@ -73,3 +73,7 @@ Started watching and taking notes on his video lectures. Will create a infograph
 # Day 13 - Andrew Ng's ML course Day 4
 
 [Implemented Logistic Regression](/Day%2013/day-13.ipynb)
+
+# Day 14 - Catch up Day
+
+Worked on fixing up some bad code and worked on visualizing multivariate linear regression
