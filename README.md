@@ -67,7 +67,7 @@ Started watching and taking notes on his video lectures. Will create a infograph
 [Implemented Single Variable Linear Regression](/Day%2011/day-11.ipynb)
 
 <p align="center">
-  <img src="Day 11/animation.gif"/>
+    <a href="Day 11/animation.gif"> Link to GIF </a>
 </p>
 
 # Day 12 - Andrew Ng's ML course Day 3
