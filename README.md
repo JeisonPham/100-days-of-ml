@@ -85,3 +85,11 @@ Worked on fixing up some bad code and worked on visualizing multivariate linear 
 # Day 15 - Regularization
 
 Applied regularization to my previous implemenations of linear and logistic regression to improve the training performance. No noticiable difference between the first and this implementation probably due to the lack of complicated datasets
+
+# Day 16 - Introductino to Neural Networks Andrew Ng's Course
+
+# Day 17 - Wrote article on medium about linear regression
+
+# Day 18 - Deeplearning.ai Course 1 Week 2 Homeworkk
+
+[Week 2 Homework](/Day%2018/day-18.ipynb)
