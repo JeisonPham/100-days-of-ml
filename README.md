@@ -93,3 +93,7 @@ Applied regularization to my previous implemenations of linear and logistic regr
 # Day 18 - Deeplearning.ai Course 1 Week 2 Homeworkk
 
 [Week 2 Homework](/Day%2018/day-18.ipynb)
+
+# Day 19 - Did some reading in Deeplearningbook
+
+Trying to decide if Andrew Ng's course or the book is better to complete first. I think the book is since I can finish it faster
